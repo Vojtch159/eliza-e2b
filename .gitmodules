@@ -1,3 +1,6 @@
 [submodule "characters"]
 	path = characters
 	url = https://github.com/elizaos/characters
+[submodule "packages/plugin-sandbox"]
+	path = packages/plugin-sandbox
+	url = https://github.com/Vojtch159/plugin-sandbox
