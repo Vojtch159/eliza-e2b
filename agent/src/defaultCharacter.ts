@@ -1,9 +1,12 @@
 import { type Character, ModelProviderName } from "@elizaos/core";
+import { e2bSandboxPlugin } from "@elizaos/plugin-sandbox";
 
 export const defaultCharacter: Character = {
     name: "Eliza",
     username: "eliza",
-    plugins: [],
+    plugins: [
+        e2bSandboxPlugin,
+    ],
     modelProvider: ModelProviderName.OPENAI,
     settings: {
         secrets: {
