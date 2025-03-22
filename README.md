@@ -2,7 +2,7 @@
 
 __Problem__: Agents using the most used AI Agent framework cannot leverage E2B to run the code the agent generates in a sandbox.
 
-__Solution__: We wrote `plugin-sandbox` for the Eliza AI Agent framework that any agent using this framework can easily use.
+__Solution__: We wrote [`plugin-sandbox`](https://github.com/Vojtch159/plugin-sandbox) for the Eliza AI Agent framework that any agent using this framework can easily use.
 
 This is a demo repository where we included the plugin as a submodule. The demo is a showcase of a simple AI Agent using the plugin to interface with E2B.
 
