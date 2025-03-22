@@ -12,9 +12,9 @@ This is a demo repository where we included the plugin as a submodule. The demo 
 
 ## Links
 
-Demo repo: https://github.com/Vojtch159/eliza-e2b
-Plugin repo: https://github.com/Vojtch159/plugin-sandbox
-Eliza docs: https://eliza.how/
+- Demo repo: https://github.com/Vojtch159/eliza-e2b
+- Plugin repo: https://github.com/Vojtch159/plugin-sandbox
+- Eliza docs: https://eliza.how/
 
 ## How to run the demo locally
 
